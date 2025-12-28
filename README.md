@@ -12,7 +12,7 @@
 ---
 
 ### 🧰 Tech Stack I'm Exploring
-`HTML` | `CSS` | `JavaScript` | `React.js` | `Node.js` | `MongoDB` | `Tailwind CSS` | `Git` | `VS Code`
+`HTML` | `CSS` | `JavaScript` | `Python`| `Java`| `SQL`| `React.js` | `Node.js` | `MongoDB` | `Tailwind CSS` | `Git` | `VS Code`
 
 ---
 
