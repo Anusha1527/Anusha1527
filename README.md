@@ -60,6 +60,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anusha1527&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anusha1527&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anusha1527&theme=tokyonight" />
+</p>
 ---
 
 ## ⚡ Fun Fact
