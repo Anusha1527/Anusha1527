@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:203a43&height=100&section=header&text=Anusha%20V%20Reddy&fontColor=ffffff&fontSize=26)
 
-💙 Hi, I'm Anusha
+Hi, I'm Anusha
 =================================
 
 🌐 Information Science & Engineering Student   
@@ -56,11 +56,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Anusha1527&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anusha1527&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha1527&theme=tokyonight&hide_border=false&layout=compact)
+[![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha1527)](https://github.com/Anusha1527/github-readme-stats)
 
 ---
 
