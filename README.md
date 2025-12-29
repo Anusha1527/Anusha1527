@@ -1,32 +1,70 @@
-### 👋 Hi there, I'm Anusha (@Anusha1527)
+💙 Hi, I'm Anusha ✨
+=================================
 
-- 👩‍💻 I'm a passionate coder and an aspiring **Full Stack Web Developer**
-- 🌱 Currently learning full stack development (MERN stack, Tailwind CSS, and more)
-- 🎨 Love building **creative and responsive web pages**
-- 🌿 Working on cool projects like a **Virtual Plant Care Assistant** & a **Medical Assistant App**
-- 🤝 Open to collaborations on meaningful and design-focused tech projects
-- 📫 Reach me at: **anushavreddy5@gmail.com**
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: I find debugging therapeutic (well, sometimes 😄)
+🌐 Information Science & Engineering Student  
+🎓 Aspiring Full Stack Web Developer  
 
 ---
 
-### 🧰 Tech Stack I'm Exploring
-`HTML` | `CSS` | `JavaScript` | `Python`| `Java`| `SQL`| `React.js` | `Node.js` | `MongoDB` | `Tailwind CSS` | `Git` | `VS Code`
+## 👩‍💻 About Me
+
+- 🎓 Pursuing Bachelor’s degree in **Information Science & Engineering**
+- 🚀 Passionate coder aiming to build a career in **Tech / IT**
+- 🎨 Love creating **creative, responsive & user-friendly web experiences**
+- 🌱 Currently learning **Full Stack Development (MERN, Tailwind CSS)**
+- ⚡ Fast learner, adaptable, and curious about building meaningful solutions
 
 ---
 
-### 🌟 Projects I'm Proud Of
-- 🌿 **Virtual Plant Care Assistant** – A smart assistant for plant lovers  
-- 💊 **Pharmacist/Diagnostic Assistant App** – Built for healthcare ease using dummy data  
-- 🖼️ Working on a creative UI components library using React + Tailwind
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushavreddy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__anu_sha_reddy__)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushavreddy5@gmail.com)
 
 ---
 
-> _"Creativity + Code = Magic ✨"_
+## 💻 Tech Stack
 
-<!---
-Anusha1527/Anusha1527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha1527)](https://github.com/Anusha1527/github-readme-stats)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+- 🚌 **Smart Bus Tracker**  
+  A smart public transport tracking web app that shows nearby buses, routes, live location, and estimated arrival time.
+
+- 🌿 **Virtual Plant Care Assistant**  
+  An intelligent assistant that helps users monitor plant health and get care recommendations.
+
+- ❤️ **Heart Disease Prediction (Logistic Regression)**  
+  A machine learning project that predicts the risk of heart disease using patient data and logistic regression.
+
+---
+
+## 📊 GitHub Stats
+
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusha1527&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anusha1527&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+
+I love exploring creative ways to blend **technology + aesthetics** —  
+and yes, debugging feels therapeutic (sometimes 😄)
+
+✨ Let’s build something amazing together!
