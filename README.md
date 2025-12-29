@@ -55,11 +55,11 @@
 # 📊 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=anusha1527\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Anusha1527\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=anusha1527\&theme=tokyonight\&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Anusha1527\&theme=tokyonight\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha1527\&theme=tokyonight\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha1527\&theme=tokyonight\&hide_border=false\&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raks21v\&icon=0\&color=1)](https://visitcount.itsvg.in)
