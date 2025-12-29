@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:203a43&height=120&section=header&text=Anusha%20V%20Reddy&fontColor=ffffff&fontSize=30)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=140&section=header&text=Anusha%20V%20Reddy&fontColor=ffffff&fontSize=30)
 
 💙 Hi, I'm Anusha
 =================================
