@@ -1,9 +1,7 @@
-💙 Hi, I'm Anusha ✨
+💙 Hi, I'm Anusha
 =================================
 
-🌐 Information Science & Engineering Student  
-🎓 Aspiring Full Stack Web Developer  
-
+🌐 Information Science & Engineering Student   
 ---
 
 ## 👩‍💻 About Me
@@ -54,19 +52,18 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusha1527&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anusha1527&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=raks21v\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anusha1527&show_icons=true&theme=tokyonight" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=raks21v\&theme=tokyonight\&hide_border=false)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anusha1527&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raks21v\&theme=tokyonight\&hide_border=false\&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=raks21v\&icon=0\&color=1)](https://visitcount.itsvg.in)
 ---
 
 ## ⚡ Fun Fact
