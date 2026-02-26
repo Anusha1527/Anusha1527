@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:203a43&height=100&section=header&text=Anusha%20V%20Reddy&fontColor=ffffff&fontSize=26)
+![Banner](https://capsule-render.vercel.app/api?type=blur&color=0:2C3E50,100:8E44AD&height=220&section=header&text=Anusha%20V%20Reddy&fontSize=45&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20System%20Design%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 Hi, I'm Anusha
 =================================
@@ -56,7 +56,9 @@ Hi, I'm Anusha
 
 ## 📊 GitHub Stats
 
-[![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha1527)](https://github.com/Anusha1527/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anusha1527&theme=radical)
+
 
 ---
 
